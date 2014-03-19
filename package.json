@@ -1,0 +1,18 @@
+{
+  "name": "regex-object",
+  "version": "0.0.0",
+  "description": "Build RegExps from each key in an object",
+  "author": "Stephen Mathieson <me@stephenmathieson.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stephenmathieson/regex-object.git"
+  },
+  "main": "index",
+  "scripts": {
+    "test": "node test"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "better-assert": "~1.0.0"
+  }
+}
